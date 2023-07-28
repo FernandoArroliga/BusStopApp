@@ -41,6 +41,7 @@ class Application(MDApp):
         
         return manager_style
     
+# Running the application
 if __name__ == "__main__":
     my_app = Application()
     my_app.run()
